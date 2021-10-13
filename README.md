@@ -56,7 +56,7 @@
 
 ## 👋 Getting started
 
-As you begin contributing to an increasing amount of GitHub repositories, you'll soon realize the effort it takes to organize and maintain them on your machine. `fgh` aims to solve this issue through the use of a CLI (command line interface) to automate the entire lifecycle of your cloned repos, saving you time _and_ helping you scale! Below is a list of the most useful automation commands:
+As you begin contributing to an increasing number of GitHub repositories, you'll soon realize the effort it takes to organize and maintain them on your machine. `fgh` aims to solve this issue through the use of a CLI (command line interface) to automate the entire lifecycle of your cloned repos, saving you time _and_ helping you scale! Below is a list of the most useful automation commands:
 
 - [`fgh clone`](#️-fgh-clone)
 - [`fgh clean`](#-fgh-clean)
